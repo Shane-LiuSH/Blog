@@ -125,7 +125,7 @@ url = "https://github.com/Shane-LiuSH"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "www.linkedin.com/in/shanesh"
+url = "https://www.linkedin.com/in/shanelsh/"
 
 #[[params.social]]
 #name = "Medium"
