@@ -107,13 +107,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/Shane-LiuSH"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-2x fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
 
 #[[params.social]]
 #name = "Twitter"
@@ -125,7 +125,7 @@ url = "https://gitlab.com/johndoe/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "www.linkedin.com/in/shanelsh"
 
 #[[params.social]]
 #name = "Medium"
