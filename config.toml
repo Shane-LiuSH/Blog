@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 googleAnalytics = "G-L45XN24D2Y"
+hasCJKLanguage =   true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
@@ -150,19 +151,19 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "/about/"
+url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "/post/"
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "/projects/"
+url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "/contact/"
+url = "contact/"
