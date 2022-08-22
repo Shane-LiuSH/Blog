@@ -1,14 +1,18 @@
-+++ 
-date = "2022-08-18"
-title = "Deploy MQTT in Docker"
-description = "How to deploy the containers of MQTT and communicate with each other"
-slug = ""
-authors = "Shane"
-tags = ["MQTT","Docker"]
-categories = ["Dev","Docker"]
-externalLink = ""
-series = []
-+++
+---
+date : 2022-08-18
+title : 'Deploy MQTT in Docker'
+description : 'How to deploy the containers of MQTT and communicate with each other'
+slug :
+authors : 'Shane'
+tags : 
+- MQTT
+- Docker
+categories : 
+- Dev 
+- Docker
+externalLink :
+series :
+---
 
 # Install the broker
 ## pull the image from the docker hub
