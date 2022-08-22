@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = "2022-08-18"
 title = "Deploy MQTT in Docker"
 description = "How to deploy the containers of MQTT and communicate with each other"
