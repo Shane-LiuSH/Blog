@@ -14,7 +14,7 @@ externalLink :
 series :
 ---
 
-# Install the broker_____
+# Install the broker
 ## pull the image from the docker hub
 
 `docker pull eclipse-mosquitto`

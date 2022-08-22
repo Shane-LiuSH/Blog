@@ -40,7 +40,7 @@
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shanesh.top/post/docker/deploy_mqtt_in_docker/</guid>
-      <description>Install the broker_____  Link to heading   pull the image from the docker hub  Link to heading   docker pull eclipse-mosquitto
+      <description>Install the broker  Link to heading   pull the image from the docker hub  Link to heading   docker pull eclipse-mosquitto
 download the config file  Link to heading    Mount the config file in the container to this file make it easier to config the container.   https://raw.githubusercontent.com/eclipse/mosquitto/master/mosquitto.conf
  run the container  Link to heading   mount the log file to ram disk with listen port exposed to 8883</description>
     </item>
