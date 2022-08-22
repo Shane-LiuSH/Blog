@@ -10,7 +10,6 @@ externalLink = ""
 series = []
 
 +++
-# Error:git push
 ## Description:
     remote: Support for password authentication was removed on August 13, 2021.
 ## Solution:

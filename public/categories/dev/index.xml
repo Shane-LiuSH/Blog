@@ -13,7 +13,7 @@
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shanesh.top/post/git/errorpassword-authentication/</guid>
-      <description>Error:git push  Link to heading   Description:  Link to heading   remote: Support for password authentication was removed on August 13, 2021.  Solution:  Link to heading   Use token other than password to log in.   Go to github-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;personal access tokens generate new tokens, save it. When you push new commit, enter the token other than your password  </description>
+      <description>Description:  Link to heading   remote: Support for password authentication was removed on August 13, 2021.  Solution:  Link to heading   Use token other than password to log in.   Go to github-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;personal access tokens generate new tokens, save it. When you push new commit, enter the token other than your password  </description>
     </item>
     
     <item>
