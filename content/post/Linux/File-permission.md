@@ -9,7 +9,6 @@ categories = ["Dev","Linux"]
 externalLink = ""
 series = []
 +++
-# Linux file permission
 ## Types of uesers
 * There are 3 types of uesers in Linux sys:
   * User:The owner of the file.

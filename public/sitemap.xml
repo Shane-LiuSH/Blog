@@ -26,6 +26,9 @@
     <loc>https://shanesh.top/categories/linux/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shanesh.top/categories/other/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shanesh.top/post/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -33,6 +36,12 @@
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanesh.top/post/other/test/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanesh.top/categories/test/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/post/docker/deploy_mqtt_in_docker/</loc>
