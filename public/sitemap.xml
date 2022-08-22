@@ -14,13 +14,22 @@
     <loc>https://shanesh.top/categories/dev/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shanesh.top/series/dive-into-linux-sys/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shanesh.top/post/git/errorpassword-authentication/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/post/linux/file-permission/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shanesh.top/tags/git/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shanesh.top/categories/git/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanesh.top/tags/linux/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/categories/linux/</loc>
@@ -32,10 +41,16 @@
     <loc>https://shanesh.top/post/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shanesh.top/series/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shanesh.top/authors/shane/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanesh.top/tags/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/post/other/test/</loc>
@@ -47,15 +62,17 @@
     <loc>https://shanesh.top/post/docker/deploy_mqtt_in_docker/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shanesh.top/tags/docker/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shanesh.top/categories/docker/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanesh.top/tags/mqtt/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shanesh.top/contact/</loc>
   </url><url>
     <loc>https://shanesh.top/projects/</loc>
-  </url><url>
-    <loc>https://shanesh.top/series/</loc>
-  </url><url>
-    <loc>https://shanesh.top/tags/</loc>
   </url>
 </urlset>

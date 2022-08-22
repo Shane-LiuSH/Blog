@@ -4,10 +4,10 @@ title = "File Permission"
 description = "Use `chmod` to change file permission "
 slug = ""
 authors = ["Shane"]
-tags = []
+tags = ["Linux"]
 categories = ["Dev","Linux"]
 externalLink = ""
-series = []
+series = ["Dive into Linux sys"]
 +++
 ## Types of uesers
 * There are 3 types of uesers in Linux sys:
