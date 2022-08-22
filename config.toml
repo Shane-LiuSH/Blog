@@ -150,19 +150,19 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "content/about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "content/posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "content/projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "contact/"
+url = "content/contact/"
