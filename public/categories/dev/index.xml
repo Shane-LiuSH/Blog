@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Shane</title>
+    <link>https://shanesh.top/categories/dev/</link>
+    <description>Recent content in Dev on Shane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shanesh.top/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy MQTT in Docker</title>
+      <link>https://shanesh.top/post/deploy_mqtt_in_docker/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesh.top/post/deploy_mqtt_in_docker/</guid>
+      <description>Install the broker  Link to heading   pull the image from the docker hub  Link to heading   docker pull eclipse-mosquitto
+download the config file  Link to heading    Mount the config file in the container to this file make it easier to config the container.   https://raw.githubusercontent.com/eclipse/mosquitto/master/mosquitto.conf
+ run the container  Link to heading   mount the log file to ram disk with listen port exposed to 8883</description>
+    </item>
+    
+  </channel>
+</rss>
