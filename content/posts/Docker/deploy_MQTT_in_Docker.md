@@ -6,7 +6,7 @@ description = "How to deploy the containers of MQTT and communicate with each ot
 slug = ""
 authors = ["Shane"]
 tags = ["MQTT","Docker"]
-categories = ["Dev","Docker"]
+categories = ["Docker"]
 externalLink = ""
 series = []
 

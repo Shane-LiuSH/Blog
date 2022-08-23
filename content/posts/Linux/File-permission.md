@@ -1,11 +1,11 @@
 +++
 date = "2022-08-22"
-title = "File Permission"
+title = "File Permission in Linux"
 description = "Use `chmod` to change file permission "
 slug = ""
 authors = ["Shane"]
-tags = ["Linux"]
-categories = ["Dev","Linux"]
+tags = ["Linux","Files"]
+categories = ["Linux"]
 externalLink = ""
 series = ["Dive into Linux sys"]
 +++
