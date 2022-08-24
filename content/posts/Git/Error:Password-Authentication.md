@@ -1,11 +1,11 @@
 +++
 date = "2022-08-22"
-title = "Git Error:Password Authentication"
+title = "Git Error: Password Authentication"
 description = "An error occured when git push"
 slug = ""
 authors = ["Shane"]
 tags = ["Git"]
-categories = ["Git"]
+categories = ["Dev Skills"]
 externalLink = ""
 series = []
 

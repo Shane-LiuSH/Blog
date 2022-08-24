@@ -6,7 +6,7 @@ description = "How to deploy the containers of MQTT and communicate with each ot
 slug = ""
 authors = ["Shane"]
 tags = ["MQTT","Docker"]
-categories = ["Docker"]
+categories = ["Virtualization"]
 externalLink = ""
 series = []
 
@@ -42,7 +42,7 @@ the same as above, change the listening port, the directory hve been createded s
 `docker run --name mqtt_client -it -p 8884:1883 -p 9002:9001 -v ~/MQTT/mosquitto.conf:/mosquitto/config/mosquitto.conf -v /mnt/MQTTData:/mosquitto/data -v /mosquitto/log eclipse-mosquitto`
 
 # tweak the ~/MQTT/mosquitto.conf
-* if the clients and the broker mount to the same config, you must add the pwdfile first(even it is not necessary to the client and you can just nake an empty file). Otherwise, it may generate errors.
+* if the clients and the broker mount to the same config, you must add the pwdfile first(even it is not necessary to the client and you can just make an empty file). Otherwise, it may generate errors.
 *   uncomment the line: 
     * `password_file` 
     * append ` /mosquitto/config/pwfile`
